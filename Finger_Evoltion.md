@@ -61,3 +61,13 @@ In this version, the **dimensional issue has been resolved**, and the **finger w
 ![Finger C - Version 9](Main_dedo_C_v9/f2_v9.PNG)
 ![Finger C - Version 9](Main_dedo_C_v9/f3_v9.PNG)
 ![Finger C - Version 9](Main_dedo_C_v9/f4_v9.PNG)
+
+## 🦾 Version 13 – Finger C
+
+![Finger C - Version 13](Main_dedo_C_v13/f1_v13.PNG)
+![Finger C - Version 13](Main_dedo_C_v13/f2_v13.PNG)
+![Finger C - Version 13](Main_dedo_C_v13/f3_v13.PNG)
+![Finger C - Version 13](Main_dedo_C_v13/f4_v13.PNG)
+![Finger C - Version 13](Main_dedo_C_v13/f5_v13.PNG)
+![Finger C - Version 13](Main_dedo_C_v13/f6_v13.PNG)
+![Finger C - Version 13](Main_dedo_C_v13/f7_v13.PNG)
