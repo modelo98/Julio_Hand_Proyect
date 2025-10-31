@@ -5,6 +5,16 @@ This version is the **first test prototype** of the **third and final candidate 
 ![Finger C - Version 1](Main_dedo_C_v1/f1_v1.PNG)
 ![Finger C - Version 1](Main_dedo_C_v1/f2_v1.PNG)
 ![Finger C - Version 1](Main_dedo_C_v1/f3_v1.PNG)
+## 🔹 Tendon Mechanics
+
+In the last image, the **tendons** can be seen working to **rotate the joints**.  
+**Motor 1** corresponds to the **MP joint**, and **Motor 2** to the **PIP joint**.  
+
+The tendons (fishing line) are **attached using the _splicing_ technique (German: _Spleissen_)** at the point where they form a small loop in the image.  
+Knots are **not used**, as they can cause up to an **80% efficiency loss** in the system.  
+However, by using **splicing (_Spleissung_)**, the efficiency loss is reduced to approximately **20%**.
+![Finger C - Version 1](Main_dedo_C_v1/f4_v1.PNG)
+
 
 
 ## 🦾 Version 3 – Finger C
