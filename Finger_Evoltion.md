@@ -63,7 +63,19 @@ In this version, the **dimensional issue has been resolved**, and the **finger w
 ![Finger C - Version 9](Main_dedo_C_v9/f4_v9.PNG)
 
 ## 🦾 Version 13 – Finger C
+## 🔹 Silicone Application and Structural Fixes
 
+In this version, some elements are already **covered with silicone**, simulating the **“skin” of the hand**.  
+The **silicone** is used for **two main reasons**:
+
+1. To **increase adhesion** to other surfaces, since previously the finger structure was made only of **PLA material**.  
+2. To **reduce the spacing** between the **proximal**, **middle**, and **distal phalanges** when the finger closes, thereby **improving grip performance**.
+
+In this version, another issue was also solved:  
+The **arm responsible for rotating the distal phalanx** was not properly fixed, as it was held only by a **metal rod**.  
+During the **flexion test**, it was observed that the arm **detached from the finger**, even though it remained attached to the rod — this occurred both on the **upper** and **lower** sides of the arm.  
+
+The solution was to **enclose both ends** of the arm **within the finger’s structure**, preventing disconnection during flexion.
 ![Finger C - Version 13](Main_dedo_C_v13/f1_v13.PNG)
 ![Finger C - Version 13](Main_dedo_C_v13/f2_v13.PNG)
 ![Finger C - Version 13](Main_dedo_C_v13/f3_v13.PNG)
