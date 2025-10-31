@@ -43,3 +43,11 @@ For this reason, in **future versions**, this issue is addressed in order to **p
 ![Finger C - Version 7](Main_dedo_C_v7/f5_v7.PNG)
 ![Finger C - Version 7](Main_dedo_C_v7/f6_v7.PNG)
 
+
+## 🦾 Version 9 – Finger C
+In this version, the **dimensional issue has been resolved**, and the **finger width** has been successfully reduced to **20 mm**.
+
+![Finger C - Version 9](Main_dedo_C_v9/f1_v9.PNG)
+![Finger C - Version 9](Main_dedo_C_v9/f2_v9.PNG)
+![Finger C - Version 9](Main_dedo_C_v9/f3_v9.PNG)
+![Finger C - Version 9](Main_dedo_C_v9/f4_v9.PNG)
