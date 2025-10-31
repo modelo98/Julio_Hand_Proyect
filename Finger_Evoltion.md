@@ -8,6 +8,7 @@ This version is the **first test prototype** of the **third and final candidate 
 
 
 ## 🦾 Version 3 – Finger C
+In this version, progress has been made on the **DIP joint** and the **distal (final) part of the finger**.
 
 ![Finger C - Version 3](Main_dedo_C_v3/f1_v3.PNG)
 ![Finger C - Version 3](Main_dedo_C_v3/f2_v3.PNG)
